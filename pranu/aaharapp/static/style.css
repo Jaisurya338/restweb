@@ -15,7 +15,7 @@ nav{
     position:absolute;
     top:20px;
     right:80px;
-    background:linear-gradient(45deg,rgb(184, 6, 6),black,rgba(255, 64, 0, 0.945));
+    background:white;
     padding:12px 40px;
 }
 
@@ -58,7 +58,7 @@ nav b{
 }
 
 .card{
-     background:linear-gradient(45deg,rgb(184, 6, 6),black,rgba(255, 64, 0, 0.945));
+     background:maroon;
     width: 180px;
     height: 260px;
     border-radius: 15px;
@@ -93,7 +93,7 @@ nav b{
 }
 
 .team-card{
-    background:linear-gradient(45deg,rgb(184, 6, 6),black,rgba(255, 64, 0, 0.945));
+    background:maroon;
     width:180px;
     padding:20px;
     border-radius:15px;
@@ -122,7 +122,7 @@ nav b{
 footer{
     text-align:center;
     padding:10px;
-    background:linear-gradient(90deg,rgb(184, 6, 6),black,rgba(255, 64, 0, 0.945));
+    background:maroon;
     color:whitesmoke;
     position:fixed;
     bottom:0;
